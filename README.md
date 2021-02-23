@@ -1,2 +1,2 @@
 # ZJU-CG
-ZJU CG Lab & Project
+2020-2021 ZJU CG Lab & Project
